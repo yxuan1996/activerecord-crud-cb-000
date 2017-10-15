@@ -27,6 +27,7 @@ def can_be_created_in_a_block(title, release_date)
     m.title = title
     m.release_date = release_date
   end
+  movie
 end
 
 def can_get_the_first_item_in_the_database
